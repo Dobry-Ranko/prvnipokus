@@ -6,3 +6,5 @@ Náš repozitář je prázdný a obsahuje:
 - nulu
 - prázdno
 - vakuum
+## Podnadpis 2
+- kočky jsou super
