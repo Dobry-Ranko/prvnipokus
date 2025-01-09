@@ -2,9 +2,9 @@
 Tohle je náš první pokus
 ## Podnadpis
 Náš repozitář je prázdný a obsahuje:
-- nic
+- nič
 - nulu
 - prázdno
 - vakuum
 ## Podnadpis 2
-- kočky jsou super
+- kačky jsou super
